@@ -1,0 +1,8 @@
+{
+  "schema": "eagle-craft-public-release/1",
+  "channel": "live",
+  "generatedAt": "2026-09-27T03:37:58.675Z",
+  "published": false,
+  "release": null,
+  "notes": "No release is published to Live. The public release manifest is intentionally empty until an Owner publishes an approved, verified release."
+}
